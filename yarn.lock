@@ -1831,7 +1831,7 @@
     "@jest/transform" "26.3.0"
     "@jest/types" "26.3.0"
     "@testing-library/jest-dom" "5.11.4"
-    "@types/jest" "26.0.11"
+    "@types/jest" "26.0.14"
     babel-plugin-istanbul "6.0.0"
     env-ci "5.0.2"
     identity-obj-proxy "3.0.0"
@@ -4422,10 +4422,10 @@
     jest-diff "^25.2.1"
     pretty-format "^25.2.1"
 
-"@types/jest@26.0.11":
-  version "26.0.11"
-  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-26.0.11.tgz#e2787bbd4b6a2dcfebcb251bdb32c77c7b72da7b"
-  integrity sha512-TtvwL2TgJgNPako4x6LV5lEaWRsyWmC7he6DLVscbl1q8kbZVyVFKOe9mMXR18Ffrl0d2UN9k2E2LliMddjtEw==
+"@types/jest@26.0.14":
+  version "26.0.14"
+  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-26.0.14.tgz#078695f8f65cb55c5a98450d65083b2b73e5a3f3"
+  integrity sha512-Hz5q8Vu0D288x3iWXePSn53W7hAjP0H7EQ6QvDO9c7t46mR0lNOLlfuwQ+JkVxuhygHzlzPX+0jKdA3ZgSh+Vg==
   dependencies:
     jest-diff "^25.2.1"
     pretty-format "^25.2.1"
